@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp)
+<p align="center">
+  ![html, css, js](https://skillicons.dev/icons?i=js,html,css)
+</p>
+
+---
+
+<p align="center">
+  ![cpp](https://skillicons.dev/icons?i=js,html,css,cpp)
+</p>
