@@ -16,11 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  ![html, css, js](https://skillicons.dev/icons?i=js,html,css)
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ---
-
 <p align="center">
-  ![cpp](https://skillicons.dev/icons?i=js,html,css,cpp)
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</p>
+
+---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,obsidian" />
 </p>
