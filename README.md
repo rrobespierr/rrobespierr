@@ -15,16 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Frontend frameworks/libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
----
+## Backend frameworks/libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
----
+## Programming languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js" />
+</p>
+
+## Others
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,obsidian" />
 </p>
