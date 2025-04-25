@@ -15,22 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Frontend frameworks/libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
+###### Frontend frameworks, libraries & tools:
+![React, Tailwind, Bootstrap, Vite](https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite)
 
-## Backend frameworks/libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+###### Backend frameworks, libraries & tools:
+![NodeJS, Express](https://skillicons.dev/icons?i=nodejs,express)
 
-## Programming languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js" />
-</p>
+###### Programming languages:
+![C++, JavaScript](https://skillicons.dev/icons?i=cpp,js)
 
-## Others
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,obsidian" />
-</p>
+###### Markup & style languages:
+![HTML, CSS, Markdown](https://skillicons.dev/icons?i=html,css,markdown)
+
+###### Version control:
+![Git, GitHub](https://skillicons.dev/icons?i=git,github)
+
+###### Others:
+![VSCode, Obsidian](https://skillicons.dev/icons?i=vscode,obsidian)
