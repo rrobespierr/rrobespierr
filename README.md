@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![React, Tailwind, Bootstrap, Vite](https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite)
 
 ###### Backend frameworks, libraries & tools:
-![NodeJS, Express](https://skillicons.dev/icons?i=nodejs,express)
+![NodeJS, Express, Sequelize](https://skillicons.dev/icons?i=nodejs,express,sequelize)
 
 ###### Programming languages:
 ![C++, JavaScript](https://skillicons.dev/icons?i=cpp,js)
